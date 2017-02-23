@@ -30,3 +30,5 @@ To learn about RNN and NLP. To compare the performance of RNN using character ve
 3. Fitting nondifferentiables
 4. Explore TensorBoard
 5. Explore Neural Networks with Matlab 
+
+# Documentation
