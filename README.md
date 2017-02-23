@@ -1,9 +1,9 @@
 # Senior Project
 
-Purpose: 
+# Purpose: 
 To learn about RNN and NLP. To compare the performance of RNN using character versus word based NLPs. 
 
-Aims:
+# Aims:
 1. To learn python.
 2. To learn natural language processing (NLP) techniques.
 3. To learn about Tensor Flow and how to use it in the contex of NLP.
