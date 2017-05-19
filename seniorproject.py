@@ -13,6 +13,6 @@ from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
 from tensorflow.contrib.learn.python.learn.datasets.mnist import read_data_sets
 
-def helloSenior(x):
+def hello(x):
 	return "Hello"+x
 
